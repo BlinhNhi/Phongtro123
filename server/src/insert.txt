@@ -1,0 +1,27 @@
+INSERT INTO categories (code,value,header,subHeader,path,createdAt,updatedAt) VALUES("TC","Trang Chủ",
+"Tìm kiếm chỗ thuê ưng ý",
+"Kênh thông tin Phòng trọ số 1 Việt Nam - Website đăng tin cho thuê phòng trọ, nhà nguyên căn, căn hộ, ở ghép nhanh, hiệu quả với 100.000+ tin đăng và 2.500.000 lượt xem mỗi tháng.",
+"/",current_timestamp,current_timestamp);
+
+INSERT INTO categories (code,value,header,subHeader,path,createdAt,updatedAt) VALUES("CTCH","Cho Thuê Căn Hộ",
+"Cho Thuê Căn Hộ, Giá Rẻ, Tiện Nghi, Mới Nhất 2023",
+"Cho thuê Căn Hộ - Kênh thông tin số 1 về Căn Hộ giá rẻ, Căn Hộ sinh viên, Căn Hộ cao cấp mới nhất năm 2023. 
+Tất cả căn hộ cho thuê giá tốt nhất tại Việt Nam.",
+"cho-thue-can-ho",current_timestamp,current_timestamp);
+
+INSERT INTO categories (code,value,header,subHeader,path,createdAt,updatedAt) VALUES("CTMB","Cho Thuê Mặt Bằng",
+"Cho Thuê Mặt Bằng, Giá Rẻ, Tiện Nghi, Mới Nhất 2023",
+"Cho thuê Mặt Bằng - Kênh thông tin số 1 về Mặt Bằng giá rẻ, Mặt Bằng sinh viên, Mặt Bằng cao cấp mới nhất năm 2023. 
+Tất cả Mặt Bằng cho thuê giá tốt nhất tại Việt Nam.",
+"cho-thue-mat-bang",current_timestamp,current_timestamp);
+
+INSERT INTO categories (code,value,header,subHeader,path,createdAt,updatedAt) VALUES("CTPT","Cho Thuê Phòng Trọ",
+"Cho Thuê Phòng Trọ, Giá Rẻ, Tiện Nghi, Mới Nhất 2023",
+"Cho thuê phòng trọ - Kênh thông tin số 1 về phòng trọ giá rẻ, phòng trọ sinh viên, phòng trọ cao cấp mới nhất năm 2023. Tất cả nhà trọ cho thuê giá tốt nhất tại Việt Nam.","cho-thue-phong-tro",
+current_timestamp,current_timestamp);
+
+
+INSERT INTO categories (code,value,header,subHeader,path,createdAt,updatedAt) VALUES("NCT","Nhà Cho Thuê",
+"Cho Thuê Nhà Cho Thuê, Giá Rẻ, Tiện Nghi, Mới Nhất 2023",
+"Cho thuê Nhà Cho Thuê - Kênh thông tin số 1 về Nhà Cho Thuê giá rẻ, Nhà Cho Thuê sinh viên, Nhà Cho Thuê cao cấp mới nhất năm 2023. Tất cả nhà cho thuê cho thuê giá tốt nhất tại Việt Nam.","nha-cho-thue",
+current_timestamp,current_timestamp);
